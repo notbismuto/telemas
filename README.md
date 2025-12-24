@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <style>
 @font-face {
     font-family: "Monserrat Medium";
@@ -197,7 +196,6 @@ video {
   </div>
   
 
-  <Button class="ButtonStyleSelected" style="margin: auto() 0;">SEÑAL EN VIVO</Button>
   <div class="Player">
     <div class="Frame">
       <video id="video" autoplay controls></video>
